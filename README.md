@@ -26,7 +26,4 @@ XML, JSON, JS, HTML, TXT
 
 Шаблонизация
 =========
-PHP
-Smarty
-Не использовать
-
+PHP (Smarty)
